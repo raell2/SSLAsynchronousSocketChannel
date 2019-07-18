@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"nio2.ssl","l":"SSLAsynchronousChannelGroup"},{"p":"nio2.ssl","l":"SSLAsynchronousSocketChannel"}]
