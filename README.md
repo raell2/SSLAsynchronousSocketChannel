@@ -155,7 +155,7 @@ In Linux use similarly:
 
 There are two possibilities for obtaining logging information: 
 
-- **`SSLAsynchronousSocketChannel`** and one more classes from package **`nio2.ssl`** use SLF4J for logging. In the configuration described here, the logger is Logback with its config file [logback.xml](lib/logback.xml) stored in directory [lib](lib). Setting the logging level to `TRACE` provides runtime information about the channel: 
+- **`SSLAsynchronousSocketChannel`** and one more classes from package **`nio2.ssl`** use SLF4J for logging. In the configuration described here, the logger is Logback with its config file [logback.xml](config/logback.xml) stored in directory [lib](lib). Setting the logging level to `TRACE` provides runtime information about the channel: 
 
 ````
 <logger name="nio2.ssl.SSLAsynchronousSocketChannel" level="TRACE" additivity="false">
