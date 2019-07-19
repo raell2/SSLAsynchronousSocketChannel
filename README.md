@@ -59,7 +59,7 @@ There is a comprehensive documentation of the [SSLAsynchronousSocketChannel API]
 ### Jar-Files 
 
 The `nio2.ssl.SSLAsynchronousSocketChannel` API is packed in a jar file. There are three versions 
-that can be downloaded from [lib](lib). 
+that can be downloaded from [lib](lib) directory. 
 
 |Version                              |Description                                                                  |
 |-------------------------------------|-----------------------------------------------------------------------------|
