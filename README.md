@@ -44,7 +44,7 @@ Generally, there are cryptographic limits on the amount of plaintext which can b
 
 ### API Documentation 
 
-There is a comprehensive documentation of the [SSLAsynchronousSocketChannel API](https://raell2.github.io/HelloWorld/docs/api) created by Javadoc on Github at [https://raell2.github.io/HelloWorld/docs/api](https://raell2.github.io/HelloWorld/docs/api). 
+There is a comprehensive documentation of the [SSLAsynchronousSocketChannel API](https://raell2.github.io/SSLAsynchronousSocketChannel/docs/api) created by Javadoc on Github at [https://raell2.github.io/SSLAsynchronousSocketChannel/docs/api](https://raell2.github.io/SSLAsynchronousSocketChannel/docs/api). 
 
 <a name="requirements" /> 
 
